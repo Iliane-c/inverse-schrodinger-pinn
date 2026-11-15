@@ -1,0 +1,41 @@
+[
+  {
+    "potential": "harmonic",
+    "noise": 0.02,
+    "seed": 0,
+    "n_obs": 100,
+    "method": "spline",
+    "true_gap": 0.9999968817130027,
+    "gap": NaN,
+    "seconds": 0.0,
+    "err_core": 0.442237489222736,
+    "err_ext": 1.246849659451674,
+    "maxabs_core": 0.6269243673512044
+  },
+  {
+    "potential": "harmonic",
+    "noise": 0.02,
+    "seed": 0,
+    "n_obs": 100,
+    "method": "pinn_1state",
+    "true_gap": 0.9999968817130027,
+    "gap": NaN,
+    "seconds": 29.726712703704834,
+    "err_core": 0.08207174683318222,
+    "err_ext": 0.13691751047109219,
+    "maxabs_core": 0.08840301180592847
+  },
+  {
+    "potential": "harmonic",
+    "noise": 0.02,
+    "seed": 0,
+    "n_obs": 100,
+    "method": "pinn_2state",
+    "true_gap": 0.9999968817130027,
+    "gap": 0.9993141323721962,
+    "seconds": 44.90616536140442,
+    "err_core": 0.050938520194691084,
+    "err_ext": 0.03622616592684628,
+    "maxabs_core": 0.026558997863264988
+  }
+]

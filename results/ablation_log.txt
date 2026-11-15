@@ -1,0 +1,62 @@
+default                double_well        seed 0 pinn_1state  core   8.70 %
+default                double_well        seed 0 pinn_2state  core  14.23 %
+default                double_well        seed 1 pinn_1state  core  18.50 %
+default                double_well        seed 1 pinn_2state  core  15.78 %
+default                trap_with_barrier  seed 0 pinn_1state  core  14.56 %
+default                trap_with_barrier  seed 0 pinn_2state  core   8.75 %
+default                trap_with_barrier  seed 1 pinn_1state  core   7.57 %
+default                trap_with_barrier  seed 1 pinn_2state  core   4.41 %
+w_res=1e-3             double_well        seed 1 pinn_1state  core  20.29 %
+w_res=1e-3             double_well        seed 1 pinn_2state  core  16.39 %
+w_res=1e-3             double_well        seed 0 pinn_1state  core   7.17 %
+w_res=1e-3             double_well        seed 0 pinn_2state  core  18.75 %
+w_res=1e-3             trap_with_barrier  seed 0 pinn_1state  core   8.32 %
+w_res=1e-3             trap_with_barrier  seed 0 pinn_2state  core  13.16 %
+w_res=1e-3             trap_with_barrier  seed 1 pinn_1state  core  11.68 %
+w_res=1e-3             trap_with_barrier  seed 1 pinn_2state  core   5.20 %
+w_res=3e-3             double_well        seed 0 pinn_1state  core  14.32 %
+w_res=3e-3             double_well        seed 0 pinn_2state  core  19.07 %
+w_res=3e-3             double_well        seed 1 pinn_1state  core  19.90 %
+w_res=3e-3             double_well        seed 1 pinn_2state  core  18.84 %
+w_res=3e-3             trap_with_barrier  seed 0 pinn_1state  core   8.19 %
+w_res=3e-3             trap_with_barrier  seed 0 pinn_2state  core  10.11 %
+w_res=3e-3             trap_with_barrier  seed 1 pinn_1state  core   9.30 %
+w_res=3e-3             trap_with_barrier  seed 1 pinn_2state  core   5.25 %
+w_res=3e-2             double_well        seed 0 pinn_1state  core  11.42 %
+w_res=3e-2             double_well        seed 0 pinn_2state  core  13.51 %
+w_res=3e-2             double_well        seed 1 pinn_1state  core  20.01 %
+w_res=3e-2             double_well        seed 1 pinn_2state  core  14.10 %
+w_res=3e-2             trap_with_barrier  seed 0 pinn_1state  core   6.46 %
+w_res=3e-2             trap_with_barrier  seed 0 pinn_2state  core   8.51 %
+w_res=3e-2             trap_with_barrier  seed 1 pinn_1state  core   5.76 %
+w_res=3e-2             trap_with_barrier  seed 1 pinn_2state  core   4.26 %
+no density weighting   double_well        seed 0 pinn_1state  core   8.76 %
+no density weighting   double_well        seed 0 pinn_2state  core  19.33 %
+no density weighting   double_well        seed 1 pinn_1state  core  13.48 %
+no density weighting   double_well        seed 1 pinn_2state  core  17.67 %
+no density weighting   trap_with_barrier  seed 1 pinn_1state  core  14.99 %
+no density weighting   trap_with_barrier  seed 1 pinn_2state  core 109.54 %
+no density weighting   trap_with_barrier  seed 0 pinn_1state  core   9.80 %
+no density weighting   trap_with_barrier  seed 0 pinn_2state  core  99.64 %
+no warm-up / ramp      double_well        seed 0 pinn_2state  core  14.17 %
+no warm-up / ramp      double_well        seed 1 pinn_2state  core  10.77 %
+no warm-up / ramp      trap_with_barrier  seed 0 pinn_2state  core   6.48 %
+no warm-up / ramp      trap_with_barrier  seed 1 pinn_2state  core   5.06 %
+no gradient clipping   double_well        seed 0 pinn_1state  core   8.70 %
+no gradient clipping   double_well        seed 0 pinn_2state  core  14.23 %
+no gradient clipping   double_well        seed 1 pinn_1state  core  18.50 %
+no gradient clipping   double_well        seed 1 pinn_2state  core  15.78 %
+no gradient clipping   trap_with_barrier  seed 0 pinn_1state  core  14.56 %
+no gradient clipping   trap_with_barrier  seed 0 pinn_2state  core   8.75 %
+no gradient clipping   trap_with_barrier  seed 1 pinn_1state  core   7.57 %
+no gradient clipping   trap_with_barrier  seed 1 pinn_2state  core   4.41 %
+potential            double_well             trap_with_barrier            
+method               pinn_1state pinn_2state       pinn_1state pinn_2state
+variant                                                                   
+default                     13.6        15.0              11.1         6.6
+w_res=1e-3                  13.7        17.6              10.0         9.2
+w_res=3e-3                  17.1        19.0               8.7         7.7
+w_res=3e-2                  15.7        13.8               6.1         6.4
+no density weighting        11.1        18.5              12.4       104.6
+no warm-up / ramp            NaN        12.5               NaN         5.8
+no gradient clipping        13.6        15.0              11.1         6.6

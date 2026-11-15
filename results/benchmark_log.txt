@@ -1,0 +1,106 @@
+harmonic           noise 0.01 seed 1  spline       core  17.21 %
+harmonic           noise 0.01 seed 1  pinn_1state  core   1.30 %
+harmonic           noise 0.01 seed 1  pinn_2state  core   0.67 %
+harmonic           noise 0.01 seed 0  spline       core  27.00 %
+harmonic           noise 0.01 seed 0  pinn_1state  core   3.99 %
+harmonic           noise 0.01 seed 0  pinn_2state  core   1.26 %
+harmonic           noise 0.02 seed 0  spline       core  44.22 %
+harmonic           noise 0.02 seed 0  pinn_1state  core   8.10 %
+harmonic           noise 0.02 seed 0  pinn_2state  core   5.91 %
+harmonic           noise 0.01 seed 2  spline       core  22.56 %
+harmonic           noise 0.01 seed 2  pinn_1state  core   1.57 %
+harmonic           noise 0.01 seed 2  pinn_2state  core   0.74 %
+harmonic           noise 0.02 seed 1  spline       core  28.41 %
+harmonic           noise 0.02 seed 1  pinn_1state  core   4.10 %
+harmonic           noise 0.02 seed 1  pinn_2state  core   1.17 %
+harmonic           noise 0.02 seed 2  spline       core  42.46 %
+harmonic           noise 0.02 seed 2  pinn_1state  core   2.68 %
+harmonic           noise 0.02 seed 2  pinn_2state  core   0.45 %
+harmonic           noise 0.05 seed 1  spline       core  72.49 %
+harmonic           noise 0.05 seed 1  pinn_1state  core  16.12 %
+harmonic           noise 0.05 seed 1  pinn_2state  core   6.12 %
+harmonic           noise 0.05 seed 0  spline       core  58.49 %
+harmonic           noise 0.05 seed 0  pinn_1state  core  14.23 %
+harmonic           noise 0.05 seed 0  pinn_2state  core  14.24 %
+harmonic           noise 0.05 seed 2  spline       core  73.30 %
+harmonic           noise 0.05 seed 2  pinn_1state  core  47.10 %
+harmonic           noise 0.05 seed 2  pinn_2state  core   3.08 %
+double_well        noise 0.01 seed 0  spline       core  35.10 %
+double_well        noise 0.01 seed 0  pinn_1state  core   7.83 %
+double_well        noise 0.01 seed 0  pinn_2state  core   8.66 %
+double_well        noise 0.01 seed 1  spline       core  30.19 %
+double_well        noise 0.01 seed 1  pinn_1state  core   9.79 %
+double_well        noise 0.01 seed 1  pinn_2state  core   9.15 %
+double_well        noise 0.01 seed 2  spline       core  34.96 %
+double_well        noise 0.01 seed 2  pinn_1state  core   9.01 %
+double_well        noise 0.01 seed 2  pinn_2state  core  10.29 %
+double_well        noise 0.02 seed 0  spline       core  43.13 %
+double_well        noise 0.02 seed 0  pinn_1state  core   8.70 %
+double_well        noise 0.02 seed 0  pinn_2state  core  14.23 %
+double_well        noise 0.02 seed 1  spline       core  51.29 %
+double_well        noise 0.02 seed 1  pinn_1state  core  18.50 %
+double_well        noise 0.02 seed 1  pinn_2state  core  15.78 %
+double_well        noise 0.02 seed 2  spline       core  31.38 %
+double_well        noise 0.02 seed 2  pinn_1state  core  15.13 %
+double_well        noise 0.02 seed 2  pinn_2state  core  14.33 %
+double_well        noise 0.05 seed 0  spline       core 107.03 %
+double_well        noise 0.05 seed 0  pinn_1state  core  53.78 %
+double_well        noise 0.05 seed 0  pinn_2state  core  24.49 %
+double_well        noise 0.05 seed 1  spline       core 102.04 %
+double_well        noise 0.05 seed 1  pinn_1state  core  42.73 %
+double_well        noise 0.05 seed 1  pinn_2state  core  40.48 %
+double_well        noise 0.05 seed 2  spline       core  81.05 %
+double_well        noise 0.05 seed 2  pinn_1state  core  29.72 %
+double_well        noise 0.05 seed 2  pinn_2state  core  37.04 %
+trap_with_barrier  noise 0.01 seed 0  spline       core  15.17 %
+trap_with_barrier  noise 0.01 seed 0  pinn_1state  core   5.42 %
+trap_with_barrier  noise 0.01 seed 0  pinn_2state  core   5.46 %
+trap_with_barrier  noise 0.01 seed 1  spline       core  16.45 %
+trap_with_barrier  noise 0.01 seed 1  pinn_1state  core   4.15 %
+trap_with_barrier  noise 0.01 seed 1  pinn_2state  core   3.23 %
+trap_with_barrier  noise 0.01 seed 2  spline       core  13.82 %
+trap_with_barrier  noise 0.01 seed 2  pinn_1state  core   3.26 %
+trap_with_barrier  noise 0.01 seed 2  pinn_2state  core   4.38 %
+trap_with_barrier  noise 0.02 seed 0  spline       core  27.63 %
+trap_with_barrier  noise 0.02 seed 0  pinn_1state  core  14.56 %
+trap_with_barrier  noise 0.02 seed 0  pinn_2state  core   8.75 %
+trap_with_barrier  noise 0.02 seed 1  spline       core  33.07 %
+trap_with_barrier  noise 0.02 seed 1  pinn_1state  core   7.57 %
+trap_with_barrier  noise 0.02 seed 1  pinn_2state  core   4.41 %
+trap_with_barrier  noise 0.02 seed 2  spline       core  30.36 %
+trap_with_barrier  noise 0.02 seed 2  pinn_1state  core   3.85 %
+trap_with_barrier  noise 0.02 seed 2  pinn_2state  core   6.35 %
+trap_with_barrier  noise 0.05 seed 0  spline       core  39.23 %
+trap_with_barrier  noise 0.05 seed 0  pinn_1state  core  14.68 %
+trap_with_barrier  noise 0.05 seed 0  pinn_2state  core  17.51 %
+trap_with_barrier  noise 0.05 seed 1  spline       core  68.43 %
+trap_with_barrier  noise 0.05 seed 1  pinn_1state  core  14.79 %
+trap_with_barrier  noise 0.05 seed 1  pinn_2state  core  10.41 %
+trap_with_barrier  noise 0.05 seed 2  spline       core  59.33 %
+trap_with_barrier  noise 0.05 seed 2  pinn_1state  core  24.59 %
+trap_with_barrier  noise 0.05 seed 2  pinn_2state  core  16.53 %
+                           err_core              ...     err_ext       
+method                  pinn_1state pinn_2state  ... pinn_2state spline
+potential         noise                          ...                   
+double_well       0.01          8.9         9.4  ...        14.7  132.2
+                  0.02         14.1        14.8  ...        20.7   85.7
+                  0.05         42.1        34.0  ...        33.1  115.2
+harmonic          0.01          2.3         0.9  ...         0.6  176.9
+                  0.02          5.0         2.5  ...         1.8  107.4
+                  0.05         25.8         7.8  ...         5.5   75.6
+trap_with_barrier 0.01          4.3         4.4  ...         3.9   33.2
+                  0.02          8.7         6.5  ...         6.2   48.8
+                  0.05         18.0        14.8  ...        16.7   78.5
+
+[9 rows x 6 columns]
+                         true_gap     gap  gap_rel_err_%
+potential         noise                                 
+double_well       0.01     0.3660  0.3675         0.4878
+                  0.02     0.3660  0.3669         0.4858
+                  0.05     0.3660  0.3658         2.4664
+harmonic          0.01     1.0000  1.0017         0.1836
+                  0.02     1.0000  1.0020         0.3191
+                  0.05     1.0000  1.0014         1.1096
+trap_with_barrier 0.01     0.2179  0.2197         0.8067
+                  0.02     0.2179  0.2209         1.3321
+                  0.05     0.2179  0.2267         4.0342

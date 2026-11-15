@@ -1,0 +1,41 @@
+[
+  {
+    "potential": "trap_with_barrier",
+    "noise": 0.02,
+    "seed": 0,
+    "n_obs": 100,
+    "method": "spline",
+    "true_gap": 0.21794787784042358,
+    "gap": NaN,
+    "seconds": 0.0,
+    "err_core": 0.27632927645457644,
+    "err_ext": 0.3361603772516892,
+    "maxabs_core": 0.5612479555652277
+  },
+  {
+    "potential": "trap_with_barrier",
+    "noise": 0.02,
+    "seed": 0,
+    "n_obs": 100,
+    "method": "pinn_1state",
+    "true_gap": 0.21794787784042358,
+    "gap": NaN,
+    "seconds": 262.8639998435974,
+    "err_core": 0.14494726421954449,
+    "err_ext": 0.13765410313770515,
+    "maxabs_core": 0.3820742453647399
+  },
+  {
+    "potential": "trap_with_barrier",
+    "noise": 0.02,
+    "seed": 0,
+    "n_obs": 100,
+    "method": "pinn_2state",
+    "true_gap": 0.21794787784042358,
+    "gap": 0.22748331467494598,
+    "seconds": 272.76417684555054,
+    "err_core": 0.08271047437635928,
+    "err_ext": 0.09186357976309108,
+    "maxabs_core": 0.1673270397706692
+  }
+]
